@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\Documents\All projects in university until now\Final Project For first term\ConsoleApplication1\ConsoleApplication1.cpp(661,12): warning C4101: 'o': unreferenced local variable
+C:\Users\User\Documents\All projects in university until now\Final Project For first term\ConsoleApplication1\ConsoleApplication1.cpp(1899,10): warning C4101: 'o': unreferenced local variable
+C:\Users\User\Documents\All projects in university until now\Final Project For first term\ConsoleApplication1\ConsoleApplication1.cpp(2413,10): warning C4101: 'o': unreferenced local variable
+C:\Users\User\Documents\All projects in university until now\Final Project For first term\ConsoleApplication1\ConsoleApplication1.cpp(2822,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\User\Documents\All projects in university until now\Final Project For first term\x64\Debug\ConsoleApplication1.exe
